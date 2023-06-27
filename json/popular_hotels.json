@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Hotel A",
+    "location": "Location A",
+    "img": "img/hotel5.jpg",
+
+    "price": 120.0,
+    "starRating": 4
+  },
+  {
+    "name": "Hotel B",
+    "location": "Location B",
+    "img": "img/hotel2.jpg",
+    "price": 150.0,
+    "starRating": 5
+  },
+  {
+    "name": "Hotel C",
+    "location": "Location C",
+    "img": "img/hotel3.jpg",
+    "price": 150.0,
+    "starRating": 5
+  },
+  {
+    "name": "Hotel D",
+    "location": "Location D",
+    "img": "img/hotel4.jpg",
+    "price": 150.0,
+    "starRating": 5
+  },
+  {
+    "name": "Hotel E",
+    "location": "Location E",
+    "img": "img/hotel1.jpg",
+    "price": 150.0,
+    "starRating": 5
+  }
+
+]
